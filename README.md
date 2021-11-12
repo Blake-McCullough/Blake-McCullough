@@ -6,7 +6,7 @@
 
 My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com.au/). You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a1203/).
 
-## U+1F3A5; Twitch and Youtube 
+## 1F3A5; Twitch and Youtube 
 
 Apart from coding and cyber security related activities, I also maintain a YouTube channel & stream on Twitch - you can find my Youtube Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) and my Twitchat [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/) .
 
