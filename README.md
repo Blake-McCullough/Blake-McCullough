@@ -14,19 +14,19 @@
   Apart from coding and cyber security related activities, I also maintain a YouTube channel & stream on Twitch - you can find my Youtube Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) and my Twitchat [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/) .
 
   ## 🔧 Technologies & Tools
-  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=9200ff)
-  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=9200ff)
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
 
 
   ## &#x1f4c8; GitHub Stats
 
   <a href="https://github.com/Blake-McCullough/Blake-McCullough">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-McCullough&hide=java,html,tex&title_color=ffffff&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-McCullough&hide=java,html,tex&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21&langs_count=3" />
   </a>
   <a href="https://github.com/Blake-McCullough/Blake-McCullough">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21" alt="Blake's GitHub Stats" />
@@ -38,7 +38,7 @@
    -->
 
   <a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>   
 
 
