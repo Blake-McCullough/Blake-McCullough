@@ -2,6 +2,9 @@
 
 ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
+<html>
+<body>
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/wave.gif" width="30px">
 
@@ -38,3 +41,5 @@ Apart from coding and cyber security related activities, I also maintain a YouTu
 </a>   
 
 
+</body>
+</html>
