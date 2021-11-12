@@ -33,7 +33,7 @@ Apart from coding and cyber security related activities, I also maintain a YouTu
  -->
 
 <a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&&bg_color=00000000" />
 </a>   
 
 
