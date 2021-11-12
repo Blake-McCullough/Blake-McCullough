@@ -1,5 +1,5 @@
 
-
+<!-- logoColor=fbfbfb&color=9200ff  -->
   ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
 
@@ -20,8 +20,11 @@
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-Godot-informational?style=flat&logo=godot-engine&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
-
+  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff) 
 
   ## &#x1f4c8; GitHub Stats
 
