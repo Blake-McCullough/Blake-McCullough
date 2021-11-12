@@ -1,7 +1,7 @@
 
-<body style="background-color:grey;">
-![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
+![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
+<body style="background-color:grey;">
 # Hello, folks! <img src="https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/wave.gif" width="30px">
 
 My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com.au/). You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a1203/).
