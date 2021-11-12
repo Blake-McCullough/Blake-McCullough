@@ -3,7 +3,7 @@
 ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
 <html>
-<body>
+<body style="background-color:powderblue;">
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/wave.gif" width="30px">
