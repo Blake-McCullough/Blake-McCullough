@@ -2,8 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
-<html>
-<body style="background-color:powderblue;">
+
 
 
   # Hello, folks! <img src="https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/wave.gif" width="30px">
@@ -28,7 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-McCullough&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
   <a href="https://github.com/Blake-McCullough/Blake-McCullough">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Blake's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=#fbfbfb&icon_color=9200ff&bg_color=1d1f21" alt="Blake's GitHub Stats" />
   </a>
 
   <!--<a href="https://github.com/MartinHeinz/python-project-blueprint">
@@ -37,9 +36,8 @@
    -->
 
   <a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&&bg_color=00000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&&bg_color=1d1f21" />
   </a>   
 
 
-</body>
-</html>
+
