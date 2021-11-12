@@ -9,7 +9,7 @@
 
   My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com.au/). You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a1203/).
 
-  ## 1F3A5; Twitch and Youtube 
+  ## &#x1F3A5; Twitch and Youtube 
 
   Apart from coding and cyber security related activities, I also maintain a YouTube channel & stream on Twitch - you can find my Youtube Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) and my Twitchat [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/) .
 
@@ -36,7 +36,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21" alt="Blake's GitHub Stats" />
   </a>
 
-## &#x1F3A5; GitHub Stats
+## &#x1F4DC; Top GitHub Repositories
   <a href="https://github.com/Blake-McCullough/C_Sharp-PayRoll-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=C_Sharp-PayRoll-System&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>  
