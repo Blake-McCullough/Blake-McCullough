@@ -36,7 +36,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21" alt="Blake's GitHub Stats" />
   </a>
 
-
+## &#x1F3A5; GitHub Stats
   <a href="https://github.com/Blake-McCullough/C_Sharp-PayRoll-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=C_Sharp-PayRoll-System&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>  
