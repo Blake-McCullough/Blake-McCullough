@@ -15,7 +15,7 @@ Apart from coding and cyber security related activities, I also maintain a YouTu
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9200ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9200ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=9200ff)
-![](https://img.shields.io/badge/Code-C#informational?style=flat&logo==c-sharp&logoColor=white&color=9200ff)
+![](https://img.shields.io/badge/Code-C#informational?style=flat&logo=c-sharp&logoColor=white&color=9200ff)
 
 ## &#x1f4c8; GitHub Stats
 
