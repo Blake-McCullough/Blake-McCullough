@@ -8,7 +8,7 @@ My name is Blake McCullough and I'm a year 11 student with a heart for passion a
 
 ## &#x270d; Twitch and Youtube 
 
-Apart from coding and cyber security related activities, I also maintain a YouTube channel - you can find my Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) .I also stream my on Twitch at [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/)
+Apart from coding and cyber security related activities, I also maintain a YouTube channel & stream on Twitch - you can find my Youtube Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) and my Twitchat [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/) .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
