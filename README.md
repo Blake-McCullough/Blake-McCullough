@@ -4,11 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com/). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com.au/). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+## &#x270d; Twitch and Youtube 
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding and cyber security related activities, I also maintain a YouTube channel - you can find my Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) .I also stream my on Twitch at [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
