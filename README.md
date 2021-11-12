@@ -1,8 +1,8 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
 
 ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/wave.gif" width="30px">
 
 My name is Blake McCullough and I'm a year 11 student with a heart for passion and coding!. I'm from Australia, living in Perth and currently working at doing an internship with [ES2](https://www.es2.com.au/). You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a1203/).
 
@@ -31,8 +31,8 @@ Apart from coding and cyber security related activities, I also maintain a YouTu
 </a>
  -->
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=ffffff&text_color=#9200ff&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
 
