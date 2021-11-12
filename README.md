@@ -15,15 +15,19 @@
 
   ## 🔧 Technologies & Tools
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Editor-Wordpress-informational?style=flat&logo=WordPress&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio-code&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Godot-informational?style=flat&logo=godot-engine&logoColor=fbfbfb&color=9200ff)
-  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
-  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
-  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff)
+
+  
+
+  ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff) 
 
   ## &#x1f4c8; GitHub Stats
