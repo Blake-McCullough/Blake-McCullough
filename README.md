@@ -1,4 +1,3 @@
-
 <!-- logoColor=fbfbfb&color=9200ff  -->
   ![Header](https://raw.githubusercontent.com/Blake-McCullough/Blake-McCullough/master/readme_header.png "Header")
 
