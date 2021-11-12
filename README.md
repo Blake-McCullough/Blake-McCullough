@@ -40,7 +40,7 @@
   <a href="https://github.com/Blake-McCullough/C_Sharp-PayRoll-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=C_Sharp-PayRoll-System&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>  
-  <a href="https://github.com/Blake-McCullough/Godot3DSimpleFPSCharacter">
+  <a href="https://github.com/Blake-McCullough/Godot-3D-Simple-FPS-Character">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Godot-3D-Simple-FPS-Character&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>   
   <a href="https://github.com/Blake-McCullough/Basic-Python-Code-Projects">
