@@ -21,14 +21,11 @@
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=fbfbfb&color=9200ff)
-  ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=fbfbfb&color=9200ff)
+  ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=fbfbfb&color=9200ff)
   ![](https://img.shields.io/badge/Code-Godot-informational?style=flat&logo=godot-engine&logoColor=fbfbfb&color=9200ff)
-
-  
-
   ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=fbfbfb&color=9200ff)
-  ![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=fbfbfb&color=9200ff) 
+  ![](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=fbfbfb&color=9200ff) 
 
   ## &#x1f4c8; GitHub Stats
 
@@ -39,11 +36,16 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-McCullough&show_icons=true&line_height=27&count_private=true&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&bg_color=1d1f21" alt="Blake's GitHub Stats" />
   </a>
 
-  <!--<a href="https://github.com/MartinHeinz/python-project-blueprint">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-   -->
 
+  <a href="https://github.com/Blake-McCullough/C_Sharp-PayRoll-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=C_Sharp-PayRoll-System&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
+  </a>  
+  <a href="https://github.com/Blake-McCullough/Godot3DSimpleFPSCharacter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Godot-3D-Simple-FPS-Character&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
+  </a>   
+  <a href="https://github.com/Blake-McCullough/Basic-Python-Code-Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Basic-Python-Code-Projects=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
+  </a>   
   <a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
   </a>   
