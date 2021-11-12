@@ -48,7 +48,7 @@
   </a>   
   <a href="https://github.com/Blake-McCullough/Latex-Monthly-Security-Dashboard-Generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=Latex-Monthly-Security-Dashboard-Generator&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
-  </a>  
+  </a> 
 
 
 
