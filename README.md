@@ -48,7 +48,7 @@ You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a
   </a>   
   <a href="https://github.com/Blake-McCullough/jaycar_mobile_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blake-McCullough&repo=jaycar_mobile_app&title_color=fbfbfb&text_color=fbfbfb&icon_color=9200ff&&bg_color=1d1f21" />
-  </a> 
+  </a>
 
 
 
