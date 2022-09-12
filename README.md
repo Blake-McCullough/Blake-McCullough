@@ -9,9 +9,6 @@
   My name is Blake McCullough and I'm a student at TAFE doing a CERT IV in Programming with a heart for passion and coding!. I'm from Australia, living in Perth and currently working on many discord bots! I have developed an app for the [VRML API](https://vrmasterleague.com/), which can be downloaded on the [Google Play Store](https://play.google.com/store/apps/details?id=com.SpoiledKitten.VRML), with plans to release on IOS!
 You can find me on [Linkedin](https://www.linkedin.com/in/blake-mccullough-0bb6a1203/).
 
-  ## &#x1F3A5; Twitch and Youtube 
-
-  Apart from coding and cyber security related activities, I also maintain a YouTube channel & stream on Twitch - you can find my Youtube Channel at [Spoiled_Kitten](https://www.youtube.com/channel/UCZrmvg_DI9PfssyOWlFJ5qQ) and my Twitchat [Spoiled_Kitten_](https://www.twitch.tv/spoiled_kitten_/) .
 
   ## 🔧 Technologies & Tools
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=fbfbfb&color=9200ff)
